@@ -7,7 +7,8 @@ CollabCanvas demonstrates how to create a modern web app with live multi-user co
 
 ## 📋 Table of Contents
 - 🤖 Introduction  
-- ⚙️ Tech Stack  
+- ⚙️ Tech Stack
+- 📸 Prototype Photos
 - 🔋 Features  
 - 🤸 Quick Start  
 - 🕸️ Snippets  
@@ -29,6 +30,17 @@ With features like live cursor chat, comment bubbles, reactions, and drawing sha
 - **Fabric.js** (canvas rendering)  
 - **Shadcn** (UI components)  
 - **Tailwind CSS**  
+
+---
+## 📸 Screenshots  
+
+Here’s a preview of the project in action:  
+
+![CollabCanvas Screenshot 1](https://github.com/vedantsp/CollabCanvas/blob/main/public/Prototype1.png) 
+
+![CollabCanvas Screenshot 2](https://github.com/vedantsp/CollabCanvas/blob/main/public/Prototype2.png)  
+
+![CollabCanvas Screenshot 3](https://github.com/vedantsp/CollabCanvas/blob/main/public/Prototype3.png)  
 
 ---
 
