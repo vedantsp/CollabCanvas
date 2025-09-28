@@ -54,9 +54,5 @@ And more — including **clean code architecture, advanced React hooks, and reus
 Ensure you have the following installed:  
 - Git  
 - Node.js  
-- npm  
+- npm
 
-### Cloning the Repository  
-```bash
-git clone https://github.com/JavaScript-Mastery-Pro/figma-ts.git
-cd figma-ts
